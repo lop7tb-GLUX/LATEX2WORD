@@ -1,0 +1,6 @@
+{
+  "name": "Latex2Word - Chuyển đổi LaTeX sang Word",
+  "description": "Ứng dụng chuyển đổi công thức và văn bản LaTeX sang định dạng Microsoft Word chuyên nghiệp, hỗ trợ toán học và định dạng văn bản.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
